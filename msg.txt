@@ -1,0 +1,146 @@
+Fonction incorrecte.
+Le fichier specifie est introuvable.
+Le chemin d acces specifie est introuvable.
+Le systeme ne peut pas ouvrir le fichier.
+Acces refuse.
+Descripteur non valide
+Les blocs de controle de memoire ont ete detruits.
+Espace insuffisant pour traiter cette commande.
+Adresse de bloc de controle de stockage non valide.
+Environnement incorrect.
+Tentative de chargement d un programme de format incorrect.
+Code d acces non valide.
+Donnees non valides.
+Memoire insuffisante pour cette operation.
+Le lecteur specifie est introuvable.
+Impossible de supprimer le repertoire.
+Impossible de deplacer le fichier vers un lecteur de disque different.
+Il n y a plus de fichier.
+Media protege en ecriture.
+Le peripherique specifie est introuvable.
+Le peripherique n est pas pret.
+Le peripherique ne reconnaît pas la commande.
+Erreur de donnees (contrôle de redondance cyclique).
+Le programme a emis une commande de longueur incorrecte.
+Le lecteur ne trouve pas de zone ou de piste specifique sur le disque.
+Impossible d acceder au disque ou a la disquette specifie.
+Le lecteur ne trouve pas le secteur demande.
+L imprimante n a plus de papier.
+ecriture impossible sur le peripherique specifie.
+Lecture impossible sur le peripherique specifie.
+Un peripherique attache au systeme ne fonctionne pas correctement.
+Le processus ne peut pas acceder au fichier car ce fichier est utilise par un autre processus.
+Le processus ne peut pas acceder au fichier car un autre processus verrouille une artie.
+Le lecteur ne contient pas la bonne disquette. Inserez xxx (numero de serie de volume : xxx) dans le lecteur xxx.
+Trop de fichiers ouverts pour un partage.
+Fin de fichier atteinte.
+Le chemin reseau n a pas ete trouve.
+Le reseau est occupe.
+La ressource ou le peripherique reseau specifie n est plus disponible.
+La limite de commandes NetBIoS a ete atteinte.
+Une erreur de carte reseau s est produite.
+Le serveur specifie ne peut pas executer l operation demandee.
+Erreur reseau inattendue.
+La carte distante n est pas compatible.
+La file d attente de l imprimante est saturee.
+Le serveur ne dispose pas de suffisamment d espace pour stocker le fichier a imprimer.
+Votre fichier en attente d impression a ete supprime.
+Le nom reseau specifie n est plus disponible.
+Le fichier existe.
+Impossible de creer le repertoire ou le fichier.
+echec sur l interruption 24.
+Memoire insuffisante pour traiter cette demande.
+Nom de peripherique local deja utilise.
+Le mot de passe reseau specifie est incorrect.
+Parametre incorrect.
+Erreur lors de l ecriture sur le reseau.
+Le systeme ne peut pas executer un autre processus en ce moment.
+Impossible de creer un autre semaphore systeme.
+Un autre processus possede le semaphore exclusif.
+Le semaphore est etabli et ne peut pas etre ferme.
+Le semaphore ne peut pas etre retabli.
+Niveau d appel système incorrect.
+Le disque n a pas de nom de volume.
+Le module specifie est introuvable.
+La procedure specifiee est introuvable.
+Il n y a pas de processus enfant a attendre.
+Niveau d appel système incorrect.
+Le disque n a pas de nom de volume.
+Le module specifie est introuvable.
+La procedure specifiee est introuvable.
+Il n y a pas de processus enfant a attendre.
+Tentative d utilisation d une commande JOIN ou SUBST sur un lecteur qui a deja ete joint.
+Tentative d utilisation d une commande JOIN ou SUBST sur un lecteur qui a deja ete substitue.
+Le systeme a tente de supprimer la jointure d un lecteur non joint.
+Le systeme a tente de supprimer la substitution d un lecteur non substitue.
+Le systeme a tente de joindre un lecteur a un repertoire stocke sur un lecteur joint.
+Le systeme a tente de substituer un lecteur a un repertoire stocke sur un lecteur substitue.
+Le systeme a tente de joindre un lecteur a un repertoire stocke sur un lecteur substitue.
+Le systeme a tente de substituer un lecteur a un repertoire stocke sur un lecteur joint.
+Operation JOIN ou SUBST impossible maintenant.
+Le système ne peut pas joindre ou substituer un lecteur a un repertoire sur ce meme lecteur.
+Le repertoire n est pas un sous-repertoire du repertoire racine.
+Le système a detecte un numero de segment incorrect.
+Le système d exploitation ne peut pas executer xxx.
+Impossible de creer un fichier deja existant.
+L indicateur passe est incorrect.
+Le nom de semaphore systeme specifie n a pas ete trouve.
+Le systeme d exploitation ne peut pas executer xxx.
+Le systeme d exploitation ne peut pas executer xxx.
+Le système d exploitation ne peut pas executer xxx.
+Impossible d executer xxx en mode Win32.
+Le système d exploitation ne peut pas executer xxx.
+xxx n est pas une application Win32 valide.
+Le systeme d exploitation ne peut pas executer xxx.
+Le systeme d exploitation ne peut pas executer xxx.
+L etat du canal de communication n est pas valide.
+Toutes les instances des canaux de communication sont occupees.
+Le canal de communication est sur le point d etre ferme.
+Il n y a pas de processus a l autre extremite du canal.
+Plus de donnees sont disponibles .
+La session a ete annulee.
+Le nom d attribut etendu (EA) specifie n etait pas valide.
+Les attributs etendus (EA) sont incoherents.
+Depassement du delai d attente.
+Aucune donnee n est disponible.
+Les fonctions de copie ne peuvent pas etre utilisees.
+Le nom de repertoire est incorrect.
+Les attributs etendus (EA) ne tiennent pas dans le tampon.
+L etat du canal de communication n est pas valide.
+Toutes les instances des canaux de communication sont occupees.
+Le canal de communication est sur le point d etre ferme.
+Il n y a pas de processus a l autre extremite du canal.
+Plus de donnees sont disponibles .
+La session a ete annulee.
+Le nom d attribut etendu (EA) specifie n etait pas valide.
+Les attributs etendus (EA) sont incoherents.
+Depassement du delai d attente.
+Aucune donnee n est disponible.
+Les fonctions de copie ne peuvent pas etre utilisees.
+Le nom de repertoire est incorrect.
+Les attributs etendus (EA) ne tiennent pas dans le tampon.
+Un semaphore a subi trop d inscriptions.
+Seule une partie d une requete ReadProcessMemory ou WriteProcessMemory a ete effectuee.
+La requete oplock est refusee.
+Un accuse de reception oplock non valide a ete reçu par le système.
+Le volume est trop fragmente pour terminer cette operation.
+Le fichier ne peut pas etre ouvert car il est en cours de suppression.
+Le texte du message associe au numero Oxxxx est introuvable dans le fichier de messages pour xxx.
+Tentative d accès a une adresse non valide.
+Resultat arithmetique depassant 32 bits.
+Il y a un processus a l autre extremite du canal.
+Le système attend qu un processus ouvre l autre extremite du canal.
+L accès a l attribut etendu (EA) a ete refuse.
+Le système a detecte un numero de segment incorrect.
+Le système d exploitation ne peut pas executer xxx.
+Impossible de creer un fichier deja existant.
+L indicateur passe est incorrect.
+Le nom de semaphore système specifie n a pas ete trouve.
+Le système d exploitation ne peut pas executer xxx.
+Le système d exploitation ne peut pas executer xxx.
+Le système d exploitation ne peut pas executer xxx.
+Impossible d executer xxx en mode Win32.
+Le système d exploitation ne peut pas executer xxx.
+xxx n est pas une application Win32 valide.
+Le système d exploitation ne peut pas executer xxx.
+Le système d exploitation ne peut pas executer xxx.
